@@ -6,7 +6,7 @@ namespace UF1_T02_Compilar_NET
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("HOLA MUNDO!!!");
+            //Console.WriteLine("HOLA MUNDO!!!"); 
             int num1 = 5;
             int nuero2 = 6;
             double numero3 = 2.57;
